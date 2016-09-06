@@ -1,0 +1,15 @@
+.idea
+/extensions
+
+/runtime/node_modules
+/runtime/css/*.css
+/runtime/css/themes/mw-*.css
+/runtime/dist
+
+/draw/node_modules
+/draw/mxgraph
+/draw/dist
+
+.awspublish-manywho-cdn-react
+
+.c9/
